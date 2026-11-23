@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 940" fill="none">
+  <defs>
+    <linearGradient id="paper" x1="92" y1="46" x2="784" y2="862" gradientUnits="userSpaceOnUse"><stop stop-color="#F6EBDD"/><stop offset="1" stop-color="#E9DDFB"/></linearGradient>
+    <linearGradient id="blue" x1="247" y1="174" x2="731" y2="759" gradientUnits="userSpaceOnUse"><stop stop-color="#9BD8FF"/><stop offset="1" stop-color="#565BE9"/></linearGradient>
+    <linearGradient id="coral" x1="545" y1="133" x2="732" y2="402" gradientUnits="userSpaceOnUse"><stop stop-color="#FFB990"/><stop offset="1" stop-color="#F16C5B"/></linearGradient>
+    <filter id="shadow" x="109" y="121" width="675" height="713" color-interpolation-filters="sRGB" filterUnits="userSpaceOnUse"><feGaussianBlur stdDeviation="18"/></filter>
+  </defs>
+  <rect x="20" y="20" width="860" height="900" rx="40" fill="url(#paper)"/>
+  <circle cx="708" cy="198" r="116" fill="url(#coral)"/>
+  <path d="M150 664c90-123 130-292 271-358 132-62 274 2 322 125 56 144-11 313-160 366-153 55-353-32-433-133Z" fill="#31285D" fill-opacity=".12" filter="url(#shadow)"/>
+  <path d="M127 665c81-99 125-250 260-318 118-59 264-24 328 91 80 145 1 330-153 382-153 52-352-29-435-155Z" fill="url(#blue)"/>
+  <path d="M244 692c44-91 44-199 121-249 71-47 158-28 193 37 37 67 5 159-58 213-71 61-185 69-256-1Z" fill="#F6C6A5"/>
+  <path d="M368 473c38-34 96-38 134-8 30 24 37 66 19 100-17 32-56 52-91 42-31-9-51-39-52-72-1-23-18-46-10-62Z" fill="#392C35"/>
+  <path d="M352 637c42 26 113 28 157 4 24 35 55 51 91 53-58 55-159 77-246 42-22-9-42-23-57-40 31-8 46-27 55-59Z" fill="#E89D7A"/>
+  <rect x="82" y="106" width="218" height="116" rx="20" fill="#FFFDF9" fill-opacity=".92"/>
+  <circle cx="122" cy="147" r="11" fill="#F07762"/>
+  <path d="M148 142h111M122 179h137M122 198h79" stroke="#382F49" stroke-width="8" stroke-linecap="round" opacity=".7"/>
+  <rect x="609" y="623" width="191" height="140" rx="22" fill="#FFFDF9" fill-opacity=".94"/>
+  <path d="M640 672h126M640 699h94M640 727h61" stroke="#382F49" stroke-width="8" stroke-linecap="round" opacity=".65"/>
+  <circle cx="750" cy="110" r="26" fill="#5D58D9"/>
+  <path d="M738 110h24M750 98v24" stroke="white" stroke-width="4" stroke-linecap="round"/>
+</svg>
